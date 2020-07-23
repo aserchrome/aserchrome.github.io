@@ -5,7 +5,9 @@
 
 当然，我们还为你在QQ群中准备了一个全新的webos以及企业精简版本的Aser Chrome3.0
 
-我们还为Cladonia group定制了浏览器，你可以在群聊中下载
+我们还为Cladonia group定制了浏览器，你可以在QQ官方群聊中下载
+
+如果你对我们的浏览器有疑问，可以于文档页面中查看以获取帮助 [Documents](/doc.md)
 
 *注：我们与7月21日不再提供Tiny Browser以及Litmus Browser的服务*
 
