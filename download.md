@@ -5,6 +5,10 @@
 
 当然，我们还为你在QQ群中准备了一个全新的webos以及企业精简版本的Aser Chrome3.0
 
+我们还为Cladonia group定制了浏览器，你可以在群聊中下载
+
+*注：我们与7月21日不再提供Tiny Browser以及Litmus Browser的服务*
+
 Have a nice exploration!
 
 ——Sprinkle
