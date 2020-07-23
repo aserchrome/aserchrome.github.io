@@ -29,3 +29,5 @@ Aser Chrome是一款基于Chrome内核的高效浏览器
 官方QQ群：935698321
 
 Admin邮箱：sprinkleponcho@dingtalk.com
+
+Aser Technology©2020 Allright reserverd
