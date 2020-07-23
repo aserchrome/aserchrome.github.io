@@ -21,3 +21,5 @@ Aser Chrome是一款基于Chrome内核的高效浏览器
 基于Chrome内核进一步加速
 
 [立即下载](/download.md)
+
+[查看文档](/doc.md)
