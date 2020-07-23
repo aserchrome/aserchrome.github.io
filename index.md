@@ -10,7 +10,9 @@ Aser Chrome是一款基于Chrome内核的高效浏览器
 
 适用于Windows，Macos，Android
 
-🌐[记得插入图片]
+![Uq0MNR.png](https://s1.ax1x.com/2020/07/23/Uq0MNR.png)
+
+右键自定义主页，让你的浏览器更加高效
 
 #### 简洁·高效
 
