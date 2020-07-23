@@ -1,37 +1,23 @@
-## Welcome to GitHub Pages
+## Aser Chrome
+---faster,newer,smaller
 
-You can use the [editor on GitHub](https://github.com/aserchrome/aserchrome.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+你好
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+欢迎来到Aser Chrome的官方站点
 
-### Markdown
+### 介绍
+Aser Chrome是一款基于Chrome内核的高效浏览器
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+适用于Windows，Macos，Android
 
-```markdown
-Syntax highlighted code block
+🌐[记得插入图片]
 
-# Header 1
-## Header 2
-### Header 3
+#### 简洁·高效
 
-- Bulleted
-- List
+适用于企业，个人，家庭，低配电脑
 
-1. Numbered
-2. List
+#### 简单·易用
 
-**Bold** and _Italic_ and `Code` text
+基于Chrome内核进一步加速
 
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/aserchrome/aserchrome.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+[立即下载](/download)
